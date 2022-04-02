@@ -13,7 +13,7 @@ Press F4 to enable/disable auto clicker.
 Press ESC to shutdown
 
 
-##Run
+## Run
 Download file (AutoClicker-1.0-SNAPSHOT.jar)[https://github.com/rodrigoazlima/auto-clicker/releases/download/v1.0.0/AutoClicker-1.0.0-SNAPSHOT.jar] and execute it 
 ```
 java -jar AutoClicker-1.0-SNAPSHOT.jar
